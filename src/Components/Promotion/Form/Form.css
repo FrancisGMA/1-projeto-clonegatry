@@ -1,0 +1,20 @@
+.Promotion-form__group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.Promotion-form__group label{
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #555;
+}
+
+.Promotion-form__group input{
+    border: 1px solid #AAA;
+    border-radius: 8px;
+    background-color: #fff;
+    height: 36px;
+    padding: 0 10px;
+}
